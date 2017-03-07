@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:text="@string/sort_contacts"
+        android:padding="10dp"
+        android:layout_gravity="center"/>
+
+    <RadioGroup
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <RadioButton
+            android:id="@+id/alphabetic_ascending"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/alphabetic_ascending"/>
+
+        <RadioButton
+            android:id="@+id/alphabetic_descending"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/alphabetic_descending"/>
+
+        <RadioButton
+            android:id="@+id/emails_count_ascending"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/emails_count_ascending"/>
+
+        <RadioButton
+            android:id="@+id/emails_count_descending"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/emails_count_descending"/>
+
+        <RadioButton
+            android:id="@+id/phones_count_ascending"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/phones_count_ascending"/>
+
+        <RadioButton
+            android:id="@+id/phones_count_descending"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/phones_count_descending"/>
+
+    </RadioGroup>
+
+</LinearLayout>

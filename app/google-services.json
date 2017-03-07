@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120562557709",
+    "project_id": "firebase-sannacodetest"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120562557709:android:dc43e0160ed357a5",
+        "android_client_info": {
+          "package_name": "com.hotmail.alekseev.k.sannacodetesttask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120562557709-l50rvcrd77qsapapaeqhhleuteo5o5io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hotmail.alekseev.k.sannacodetesttask",
+            "certificate_hash": "ab288cd23705ad4e043cd46072ba4f79a08c8aae"
+          }
+        },
+        {
+          "client_id": "120562557709-t0fho726aqj6tmgj3u00nc2j97k837sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuaQriKvrPWu5i5orYGSzHcvp-3FrfY3Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

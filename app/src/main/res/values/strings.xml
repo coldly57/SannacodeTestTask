@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Sannacode Test Task</string>
+
+    <!-- LoginActivity -->
+
+    <string name="signed_in_fmt">Signed in successfully</string>
+
+    <!-- ContactsActivity -->
+
+    <string name="tap_to_add_contact">Tap "+" to add contact</string>
+    <string name="contacts">Contacts</string>
+
+    <!-- ContactEditActivity -->
+
+    <string name="contact_first_name">First name</string>
+    <string name="contact_last_name">Last name</string>
+    <string name="contact_email">Email</string>
+    <string name="contact_phone_number">Phone number</string>
+    <string name="contact_new_contact">New contact</string>
+    <string name="contact_first_and_last">First &amp; last name</string>
+    <string name="contact_empty_fields">First and last names can\'t be both empty</string>
+
+    <!-- Actions -->
+
+    <string name="action_save">Save</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_logout">Logout</string>
+
+    <!-- Sorting dialog -->
+
+    <string name="sort_contacts">Sort contacts list</string>
+    <string name="alphabetic_ascending">Alphabetic ascending order</string>
+    <string name="alphabetic_descending">Alphabetic descending order</string>
+    <string name="emails_count_ascending">Emails count ascending order</string>
+    <string name="emails_count_descending">Emails count descending order</string>
+    <string name="phones_count_ascending">Phone numbers count ascending order</string>
+    <string name="phones_count_descending">Phone numbers count descending order</string>
+
+    <!-- General -->
+
+    <string name="warning">Warning</string>
+    <string name="delete_contact_confirmation">Your contact and all its data will be deleted</string>
+    <string name="save_changes_confirmation">Do you want to save changes?</string>
+    <string name="logout_confirmation">You are attempting to logout</string>
+    <string name="delete">Delete</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+
+    <!-- Content description -->
+
+    <string name="contact_avatar">Contact avatar</string>
+
+</resources>
